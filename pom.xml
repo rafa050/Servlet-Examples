@@ -18,9 +18,9 @@
 
         <dependency>
             <groupId>Cambio 2</groupId>
-            <artifactId>javax.servlet-api</artifactId>
+            <artifactId>Cambio 3</artifactId>
             <version>3.0.1</version>
-            <scope>provided</scope>
+            <scope></scope>
         </dependency>
 
         <dependency>
