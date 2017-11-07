@@ -20,7 +20,7 @@
             <groupId>Cambio 2</groupId>
             <artifactId>Cambio 3</artifactId>
             <version>3.0.1</version>
-            <scope></scope>
+            <scope>Cambio 4</scope>
         </dependency>
 
         <dependency>
